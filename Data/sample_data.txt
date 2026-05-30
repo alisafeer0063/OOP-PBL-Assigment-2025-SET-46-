@@ -1,0 +1,21 @@
+FLIGHTS 10
+Domestic|SK101|Karachi|Lahore|2025-08-01|08:00|150|148|4500|North
+Domestic|SK102|Lahore|Islamabad|2025-08-01|10:30|120|118|3200|North
+Domestic|SK103|Karachi|Quetta|2025-08-02|09:00|100|97|5100|West
+Domestic|SK104|Peshawar|Karachi|2025-08-03|14:00|180|175|4800|South
+International|SK201|Islamabad|Dubai|2025-08-05|06:00|200|195|18000|UAE,0
+International|SK202|Karachi|London|2025-08-06|23:00|250|244|75000|UK,1
+International|SK203|Lahore|Doha|2025-08-07|05:30|180|177|22000|Qatar,0
+International|SK204|Islamabad|Riyadh|2025-08-08|15:00|160|155|25000|Saudi Arabia,1
+Charter|SK301|Islamabad|Skardu|2025-08-10|07:00|40|37|320000|Karakoram Tours
+Charter|SK302|Karachi|Gwadar|2025-08-12|11:00|30|28|180000|CPEC Logistics
+PASSENGERS 8
+Economy|P001|Ali Hassan|ali.hassan@email.com|03001234567|0
+Economy|P002|Sara Khan|sara.khan@email.com|03012345678|0
+Business|P003|Ahmed Raza|ahmed.raza@email.com|03023456789|0
+Business|P004|Fatima Malik|fatima.malik@email.com|03034567890|0
+FirstClass|P005|Tariq Mehmood|tariq.m@email.com|03045678901|0
+FirstClass|P006|Zara Sheikh|zara.sheikh@email.com|03056789012|0
+Economy|P007|Usman Ali|usman.ali@email.com|03067890123|0
+Business|P008|Nadia Iqbal|nadia.iqbal@email.com|03078901234|0
+TICKETS 0
